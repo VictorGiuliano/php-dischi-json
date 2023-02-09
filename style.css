@@ -31,3 +31,12 @@ header {
 .color-card {
     background: rgb(17, 32, 48);
 }
+
+.my-dm {
+    max-width: 90%;
+    height: auto;
+}
+
+.my_p {
+    font-size: large;
+}
