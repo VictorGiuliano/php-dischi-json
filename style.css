@@ -22,3 +22,12 @@ header {
 .my-container {
     padding: 2rem 10rem;
 }
+
+.cont-img {
+    height: auto;
+    padding: 2rem;
+}
+
+.color-card {
+    background: rgb(17, 32, 48);
+}
